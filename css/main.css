@@ -1,1 +1,13 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+section {
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+#section-1 {
+  background-color: #757575;
+}
+
+#section-2 {
+  background-color: yellow;
+}
+/*# sourceMappingURL=main.css.map */
